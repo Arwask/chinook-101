@@ -193,7 +193,7 @@ limit 3
 
 
 
--- Provide a query that shows the most purchased Media Type.
+-- 26. Provide a query that shows the most purchased Media Type.
 
 
 -- 27. Provide a query that shows the number of tracks purchased in all invoices that contain more than one genre.
